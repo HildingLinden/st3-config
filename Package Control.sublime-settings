@@ -15,6 +15,7 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"HighlightWords",
 		"JSHint Gutter",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",

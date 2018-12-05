@@ -1,0 +1,10 @@
+{
+	// Keywords to be always highlighted, clear the list to disable it.
+	// "keyword" are literally matched, and "color" refers to theme scope names.
+	// "flag": 0 - regex, 1 - literal (default), 2 - regex and ignore case, 3 - literal and ignore case
+	// Note that json has some special characters like '\' should be escaped.
+	"permanent_highlight_keyword_color_mappings": [
+		{"keyword": "/* TODO */", "color": "keyword"}
+		//{"keyword": "FIXIT .*", "color": "support.function", "flag": 2},
+	]
+}
