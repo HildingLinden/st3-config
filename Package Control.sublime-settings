@@ -16,12 +16,15 @@
 	[
 		"BracketHighlighter",
 		"HighlightWords",
-		"JSHint Gutter",
+		"MarkdownPreview",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Unicode Character Highlighter"
 	]
 }
