@@ -3,6 +3,7 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"Unicode Character Highlighter",
 		"Vintage"
 	],
 	"match_brackets": false,
